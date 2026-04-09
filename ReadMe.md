@@ -1,8 +1,10 @@
 # Hello ! 👋
 I'm Hekinox, and I (try to) make games ! 🎮
 
-Curently learning HTML, CSS and Javascript. 🌐
+Curently learning C ⚙️
 
 I use VSCode, Godot and Notion. 💾
+
+My tech stacks: -Python 🐍
 
 I speak French, German, English and a little bit Japaneese ! 🌍
