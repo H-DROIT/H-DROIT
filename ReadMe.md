@@ -1,7 +1,7 @@
 # Hello ! 👋
 I'm Hekinox, and I (try to) make games ! 🎮
 
-Curently learning C ⚙️
+Curently learning Rust 🦀
 
 I use VSCode, Godot and Notion. 💾
 
